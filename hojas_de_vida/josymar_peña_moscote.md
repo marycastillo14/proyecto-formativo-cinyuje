@@ -4,7 +4,7 @@
 
 ## Perfil
 
-Soy una persona comprometida con el deber y cumplimiento hacia las cosas que realizo con compromiso exigencia hacia mí mismo, con una formación en técnico profesional en salud ocupacional la cual en el ámbito laboral mi desempeño como profesional en servicio al cliente y mesero teniendo como valores y virtudes el respeto responsabilidad y trabajo en equipo con un manejo en sistemas.
+Soy una persona comprometida con el deber y cumplimiento hacia las cosas que realizo con compromiso exigencia hacia mí mismo, con una formación en técnico profesional en salud ocupacional la cual en el ámbito laboral me desempeño como profesional en servicio al cliente y mesero teniendo como valores y virtudes el respeto responsabilidad y trabajo en equipo con un manejo en sistemas.
 
 ### Informacion Personal
 
