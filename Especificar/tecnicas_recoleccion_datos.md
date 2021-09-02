@@ -31,7 +31,7 @@
 
 * Muestreo: poblaciones ➡️ Informes, encuestas, memos y documentos
 * Investigación: anánisis cuantitativo y análisis cualitativo 
-* Observación: del entorno físico y de actividades
+* Observación: del entorno físico y de actividades.
 
    🔽 
 
