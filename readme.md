@@ -7,3 +7,6 @@
 - [Josymar Peña Moscote](hojas_de_vida/josymar_peña_moscote.md)
 
 - [Jose Fuentes Escudero](hojas_de_vida/jose_fuentes_escudero.md)
+
+- [Luis Garcia Sarmiento](hoja_de_vida/luis_garcia_sarmiento.md)
+
