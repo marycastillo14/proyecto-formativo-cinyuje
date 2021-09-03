@@ -8,5 +8,6 @@
 
 - [Jose Fuentes Escudero](hojas_de_vida/jose_fuentes_escudero.md)
 
-- [Luis Garcia Sarmiento](hoja_de_vida/luis_garcia_sarmiento.md)
+- [Luis Garcia Sarmiento](hojas_de_vida/luis_garcia_sarmiento.md)
+
 
