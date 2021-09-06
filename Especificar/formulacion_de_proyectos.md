@@ -61,14 +61,14 @@ Se puede incluir:
 
 Son los posibles efectos del proyecto sobre sus
 beneficiarios pueden ser de índole:
-*SOCIAL: mejoramiento de la calidad de Vida y el
+* SOCIAL: mejoramiento de la calidad de Vida y el
 bienestar del ser Humano.
-*ECONÓMICOS: disminución de costos o
+* ECONÓMICOS: disminución de costos o
 incremento de beneficios económicos para la
 población beneficiada.
-*AMBIENTAL: modificación, mejoramiento o
+* AMBIENTAL: modificación, mejoramiento o
 preservación de los recursos naturales.
-*TECNOLÓGICOS: optimización, mejoramiento y/o
+* TECNOLÓGICOS: optimización, mejoramiento y/o
 apropiación a los procesos y procedimientos.
 
 
