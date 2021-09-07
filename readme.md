@@ -10,4 +10,4 @@
 
 - [Luis Garcia Sarmiento](hojas_de_vida/luis_garcia_sarmiento.md)
 
-- [Jesus Cano Cadena](hojas_de_vida/jesus_cano_cadenas.md)
+- [Jesus Cano Cadena](hojas_de_vida/jesus_cano_cadena.md)
