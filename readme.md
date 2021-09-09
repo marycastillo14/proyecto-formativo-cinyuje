@@ -1,16 +1,7 @@
 # Index
 
 ## Integrantes
-
-- [Sugey Berdugo Caicedo](hojas_de_vida/sugey_berdugo_caicedo.md)
-
-- [Josymar Peña Moscote](hojas_de_vida/josymar_peña_moscote.md)
-
-- [Jose Fuentes Escudero](hojas_de_vida/jose_fuentes_escudero.md)
-
-- [Luis Garcia Sarmiento](hojas_de_vida/luis_garcia_sarmiento.md)
-
-- [Jesus Cano Cadena](hojas_de_vida/jesus_cano_cadena.md)
+Lista de [hojas de vida](hojas_de_vida/readme.md) de integrantes del equipo
 
 ## Requerimientos
 
