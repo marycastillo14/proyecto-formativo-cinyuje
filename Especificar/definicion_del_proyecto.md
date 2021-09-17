@@ -32,7 +32,7 @@ La sistematización de los procesos de la microempresa logrará establecer un me
 
 ### Visión del proyecto
 
-
+Con la creación de este proyecto se pretende lograr la sistematización de la información para los  procesos de la microempresa CINYUJE, tales como la realización de inventarios, hacer pedidos, promover la publicidad de productos  y registro de ventas, que brinde solución  a las necesidades de la microempresa y así tener beneficios en el mercado de calidad, innovación y flexibilidad con la implementación del aplicativo web que permita solucionar los problemas actuales. 
 
 
 
