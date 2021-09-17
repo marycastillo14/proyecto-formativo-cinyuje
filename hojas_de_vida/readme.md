@@ -1,11 +1,11 @@
 # Hojas de vida
 
-- [Sugey Berdugo Caicedo](hojas_de_vida/sugey_berdugo_caicedo.md)
+- [Sugey Berdugo Caicedo](sugey_berdugo_caicedo.md)
 
-- [Josymar Peña Moscote](hojas_de_vida/josymar_peña_moscote.md)
+- [Josymar Peña Moscote](josymar_peña_moscote.md)
 
-- [Jose Fuentes Escudero](hojas_de_vida/jose_fuentes_escudero.md)
+- [Jose Fuentes Escudero](jose_fuentes_escudero.md)
 
-- [Luis Garcia Sarmiento](hojas_de_vida/luis_garcia_sarmiento.md)
+- [Luis Garcia Sarmiento](luis_garcia_sarmiento.md)
 
-- [Jesus Cano Cadena](hojas_de_vida/jesus_cano_cadena.md)
+- [Jesus Cano Cadena](jesus_cano_cadena.md)

@@ -1,7 +1,12 @@
 # Especificar requerimientos
 
-## Objetivos
-josymar_peña_moscote
+[Definición del proyecto](definicion_del_proyecto.md)
 
-## Alcance
-Sugey
+### Objetivos
+
+_Sugey Berdugo_
+
+### Visión del proyecto
+
+_Josymar Peña_
+
