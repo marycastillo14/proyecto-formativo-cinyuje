@@ -57,9 +57,31 @@ La sistematización de los procesos de la microempresa logrará establecer un me
 
 ### Viabilidad técnica
 
+Es viable porque para la realización y elaboración del sistema de
+información, se cuentan con las herramientas y software necesarios para la
+elaboración . Además de que es un programa sin costo, hecho a la medida
+para la microempresa .También es viable porque se contará con los
+conocimientos y tecnologías necesarias para la realización del sistema de
+información. Se llevará una serie de controles, que permitirá medir la
+calidad, avance, desarrollo,éxito y efectividad del proyecto. Es de suprema
+importancia que se encuentren los equipos adicionales que se necesiten para
+poner en funcionamiento el sistema de información desarrollado por
+nosotros los aprendices.Aunque sea viable técnicamente siempre existirá una
+posibilidad de que el proyecto no se pueda implementar , ya sea por parte del
+cliente o otra inconveniente externo.
 
 
 ### Viabilidad del proyecto
+
+Este proyecto es viable porque va a permitir agilizar los procesos de la micro
+empresa, va a permitir que los clientes realicen sus compras a través de una
+página web o un aplicativo móvil. Se llevará un control que facilitará la toma
+de inventario, ventas y pedidos de la micro empresa. Todos estamos
+comprometidos y contamos con instructores calificados para orientar todonuestros pasos para hacer un excelente sistema de información. Además nos
+servirá para adquirir experiencia en el desarrollo de sistemas de información.
+Este proyecto es viable porque las expectativas son realistas , ya que se adapta
+a las necesidades y recursos con los que se cuentan actualmente para llevarlo a
+cabo
 
 
 ### Acciones propuestas
