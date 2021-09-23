@@ -6,6 +6,10 @@
 
 _Sugey Berdugo_
 
+### Problema u Oportunidad
+
+_Sugey Berdugo_
+
 ### Visión del proyecto
 
 _Josymar Peña_
