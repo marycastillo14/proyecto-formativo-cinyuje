@@ -25,8 +25,7 @@ La sistematización de los procesos de la microempresa logrará establecer un me
 
 ### Problema u Oportunidad
 
-
-
+Los procesos actuales en la empresa se realizan de manera. Se ha identificado como problema, que a pesar de los años que esta lleva en funcionamiento, nunca ha contado con un sistema de información al que sus empleados y usuarios puedan tener acceso y con el que se pueda realizar un proceso más ágil de atención a sus usuarios y servicios o productos que ofrecen, por lo que su información es vulnerable por no contar con la seguridad y el manejo que requiere. Por este motivo, se propone la implementación del sistema de información para la microempresa de piñatería y decoración Cinyuje, el cual estaría mejorando el manejo de información en la misma, la atención a sus usuarios e incrementando su promoción de productos. Así mismo esta pueda tener una innovación en sus procesos y distribución.
 
 
 
