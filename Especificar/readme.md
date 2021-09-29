@@ -14,3 +14,13 @@ _Sugey Berdugo_
 
 _Josymar Peña_
 
+[SRS - Especificación de requerimientos](srs.md)
+
+### Alcance
+
+_Sugey Berdugo_
+
+### Definiciones, Acrónimos, Abreviaturas y Referencias
+
+_Sugey Berdugo_
+
